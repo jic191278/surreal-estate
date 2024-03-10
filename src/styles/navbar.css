@@ -1,0 +1,22 @@
+.navbar {
+  background-color: white;
+  border-bottom: 2px solid darkgray;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-logo {
+  width: 250px;
+  height: 75px;
+}
+
+.navar-links {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links-item {
+  margin: 0;
+  padding: 10px;
+  display: inline;
+}

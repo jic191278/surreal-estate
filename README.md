@@ -1,8 +1,8 @@
-## Surreal Estate App
+# Surreal Estate App
 
 A Command Shift Frontend coding course project built with create-react-app.
 
-# About The Project
+## About The Project
 
 To develop a property seach engine as a single page application with:
 
@@ -10,7 +10,7 @@ To develop a property seach engine as a single page application with:
 - an add property page
 - a property page
 
-# React Learning Goals
+## React Learning Goals
 
 - Single Page Application (SPA)
 - Client-side Routing
@@ -19,7 +19,7 @@ To develop a property seach engine as a single page application with:
 - API Interaction
 - OAuth
 
-# Built With
+## Built With
 
 - create-react-app
 
