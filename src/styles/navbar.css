@@ -20,3 +20,22 @@
   padding: 10px;
   display: inline;
 }
+
+.item {
+  font-family: inherit;
+  font-weight: 400;
+  color: black;
+  text-decoration: none;
+}
+.item:link {
+  color: black;
+}
+.item:visited {
+  color: black;
+}
+.item:hover {
+  color: green;
+}
+.item:active {
+  color: red;
+}
